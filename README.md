@@ -17,10 +17,10 @@ patterns related to severity, weather, time, and vehicle types.
 ![Severity](severity_distribution.png)
 
 ### 2️⃣Road Surface Conditions vs Accidents
-![Heatmap](road_surface.png)
+![Road Surface](road_surface.png)
 
 ### 3️⃣ Light Conditions vs Accidents Severity
-![Weather](light_conditions.png)
+![Light](light_conditions.png)
 
 ### 4️⃣ Key Insights Summary
 ![Insights](screenshots/key_insights.png)
