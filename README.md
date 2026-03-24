@@ -23,7 +23,7 @@ patterns related to severity, weather, time, and vehicle types.
 ![Light](light_conditions.png)
 
 ### 4️⃣ Key Insights Summary
-![Insights](screenshots/key_insights.png)
+![Key Insights](screenshots/key_insights.png)
 
 ## 🔍 Key Findings
 - Slight accidents are the most common (65%)
